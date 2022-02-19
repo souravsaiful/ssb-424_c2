@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+}
+
+/*part1*/
+.row {
+    width: 997px;
+    margin: 0 auto;
+    display: flex;
+}
+.pad {
+    flex-basis: 33.33%;
+    text-align: center;
+    padding: 10px;
+}
+.course1 {
+    background-color: #f7e3f7;
+    padding: 10px;
+    border-radius: 10px;
+}
+.course2{
+	background-color: #fddca4;
+	padding: 10px;
+	border-radius: 10px;
+}
+.course3{
+	background-color: #ddedf3;
+	padding: 10px;
+	border-radius: 10px;
+}
+.box {
+    box-shadow: -2px 7px 16px 0px #c5b3b3;
+}
+.pic {
+    width: 195px;
+     border-radius: 50%; 
+}
+/*part1*/
+
+/*part2*/
+.color1 {
+    background-color: #fbdede;
+    width: 930px;
+    margin: 20px auto;
+    padding: 25px;
+    font-size: 18px;
+    line-height: 23px;
+}
+.color2 {
+    background-color: #d0e9c8;
+}
+.color2 h1{
+	color: blue;
+}
+/*part2*/
